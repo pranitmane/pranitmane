@@ -1,7 +1,6 @@
-- 👋 Hi, I'm Pranit
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Web development projects
-- 📫 You can reach me on twitter <a href="https://twitter.com/pranitbmane">@pranitbmane</a>
+#👋 Hello, I'm Pranit.
+I'm Third year Computer Engineering student and a Fullstack developer specializing in MERN stack with Typescript.
+- 📫 You can find me X<a href="https://twitter.com/pranitbmane">@pranitbmane</a>
 - check out my website <a href="https://pranitmane.com">pranitmane.com</a>
 
 <!---
