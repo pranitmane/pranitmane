@@ -1,5 +1,7 @@
 👋 Hello, I'm Pranit.
+
 I'm Third year Computer Engineering student and a Fullstack developer specializing in MERN stack with Typescript.
+
 - 📫 You can find me X<a href="https://twitter.com/pranitbmane">@pranitbmane</a>
 - check out my website <a href="https://pranitmane.com">pranitmane.com</a>
 
